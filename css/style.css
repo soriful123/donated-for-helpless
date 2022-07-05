@@ -151,6 +151,7 @@ body{
     border: 2px solid #FFEEEE;
     padding: 15px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 #donate-food:hover{
@@ -178,7 +179,7 @@ body{
     background: rgba(228, 71, 71, 0.678);
     border: 2px solid rgba(255, 89, 89, 0.1);
     padding: 15px;
-
+    cursor: pointer;
     border-radius: 5px;
 }
 
@@ -209,6 +210,7 @@ body{
     background: burlywood;
     border: 2px solid burlywood;
     padding: 15px;
+    cursor: pointer;
     border-radius: 5px;
 }
 
