@@ -228,3 +228,83 @@ body{
 #donate-house p{
     font-size: 16px;
 }
+
+/* total donated money css */
+
+.total-money{
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+    width: 80%;
+    
+    border-radius: 10px;
+    margin: 50px auto;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+}
+
+
+.khoroj{
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.khoroj p{
+    margin-left: 50px;
+    font-size: 30px;
+    
+}
+
+/* our updates */
+
+
+
+
+.mail-subs{
+    display: flex;
+    width: 60%;
+    border-radius: 6px;
+    height: 180px;
+    background: #FFF4D6;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-left: 20%;
+}
+
+.contact-email input{
+   padding: 10px 20px;
+   font-size: 20px;
+   background: #D9D9D9;
+   border: none;
+}
+
+.subs-btn button{
+    padding: 13px 26px;
+    background: #FF5959;
+    border: none;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+
+}   
+
+.subs-btn button:hover{
+    color: white;
+    background-color: rgb(177, 17, 137);
+   
+    transition: .8s;
+}
+
+/* footer css */
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+}
+
+.footer div{
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
