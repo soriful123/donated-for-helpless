@@ -114,3 +114,117 @@ body{
     width: 400px;
     padding: 15px;
 }
+
+
+/* Donate Plane Area */
+
+.all-donate h1{
+    font-size: 50px;
+    color:black;
+    text-align: center;
+    margin-top: 150px;
+    font-weight: bold;
+}
+
+.all-donate p{
+    font-size: 22px;
+    color: #707070;
+    text-align: center;
+    font-weight: bold;
+
+    margin-bottom: 50px;
+}
+
+.product-donate{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+#donate-food{
+    width: 350px;
+    height: 300px;
+    background: #FFEEEE;
+    border: 2px solid #FFEEEE;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#donate-food:hover{
+    margin-top: -40px;
+    transition: 1s;
+}
+
+#donate-food img{
+    width: 30%;
+}
+
+#donate-food h1{
+    font-size: 24px;
+    color: black;
+    padding: 15px;
+}
+
+#donate-food p{
+    font-size: 16px;
+}
+
+#donate-water{
+    width: 350px;
+    height: 300px;
+    background: rgba(228, 71, 71, 0.678);
+    border: 2px solid rgba(255, 89, 89, 0.1);
+    padding: 15px;
+
+    border-radius: 5px;
+}
+
+#donate-water:hover{
+    margin-top: -40px;
+    transition: 1s;
+}
+
+#donate-water img{
+    width: 30%;
+}
+
+
+#donate-water h1{
+    font-size: 24px;
+    color: black;
+    padding: 20px;
+}
+
+#donate-water p{
+    font-size: 16px;
+}
+
+
+#donate-house {
+    width: 350px;
+    height: 300px;
+    background: burlywood;
+    border: 2px solid burlywood;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+
+#donate-house:hover {
+    margin-top: -40px;
+    transition: 1s;
+}
+#donate-house img {
+    width: 30%;
+}
+
+
+#donate-house h1{
+    font-size: 24px;
+    color: black;
+    padding: 20px;
+}
+
+#donate-house p{
+    font-size: 16px;
+}
