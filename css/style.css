@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
     
     
 }
@@ -16,7 +17,7 @@ body{
     text-align: center;
     font-weight: bold;
     align-items: center;
-
+    font-family: Arial, Helvetica, sans-serif;
     padding: 200px;
     
 }
@@ -100,7 +101,7 @@ body{
 
 .send-money h1{
     align-items: center;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 
@@ -117,6 +118,8 @@ body{
 
 
 /* Donate Plane Area */
+
+
 
 .all-donate h1{
     font-size: 50px;
@@ -143,7 +146,7 @@ body{
 
 #donate-food{
     width: 350px;
-    height: 300px;
+    height: 350px;
     background: #FFEEEE;
     border: 2px solid #FFEEEE;
     padding: 15px;
@@ -171,7 +174,7 @@ body{
 
 #donate-water{
     width: 350px;
-    height: 300px;
+    height: 350px;
     background: rgba(228, 71, 71, 0.678);
     border: 2px solid rgba(255, 89, 89, 0.1);
     padding: 15px;
@@ -202,7 +205,7 @@ body{
 
 #donate-house {
     width: 350px;
-    height: 300px;
+    height: 350px;
     background: burlywood;
     border: 2px solid burlywood;
     padding: 15px;
@@ -230,6 +233,11 @@ body{
 }
 
 /* total donated money css */
+
+
+.money-hisab{
+    margin-top: 150px;
+}
 
 .total-money{
     display: flex;
