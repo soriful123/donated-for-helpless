@@ -92,8 +92,16 @@ body{
     border-radius: 10px;
     font-size: 20px;
     height: 120px;
+    cursor: pointer;
     font-weight: bold;
 }
+
+.send-money:hover{
+    background-color: rgb(141, 137, 128);
+    color: white;
+    transition: .5s;
+}
+
 #orange-color{
     border: 2px solid red;
     color: red;
@@ -109,6 +117,7 @@ body{
     padding: 20px;
     margin-bottom: 30px;
     text-align: center;
+    
 }
 
 .send-amount input{
