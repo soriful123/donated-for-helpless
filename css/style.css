@@ -7,7 +7,7 @@ body{
     
 }
 .top-banner{
-    background-image: url(../image/donation1.jpg);
+    background-image: url(../image/flood3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
@@ -58,9 +58,9 @@ body{
 /* main section css */
 
 .main-section{
-    width: 60%;
+    width: 70%;
     text-align: center;
-    margin-left: 19%;
+    margin-left: 15%;
 }
 
 .donate-today{
@@ -74,7 +74,7 @@ body{
 }
 
 .donate-today p{
-    font-size: 20px;
+    font-size: 16px;
     color: #707070;
     font-weight: bold;
 }
@@ -166,7 +166,7 @@ body{
 #donate-food h1{
     font-size: 24px;
     color: black;
-    padding: 15px;
+    
 }
 
 #donate-food p{
@@ -196,7 +196,7 @@ body{
 #donate-water h1{
     font-size: 24px;
     color: black;
-    padding: 20px;
+    
 }
 
 #donate-water p{
@@ -227,7 +227,7 @@ body{
 #donate-house h1{
     font-size: 24px;
     color: black;
-    padding: 20px;
+    
 }
 
 #donate-house p{
@@ -245,8 +245,7 @@ body{
     display: flex;
     padding: 15px;
     justify-content: space-evenly;
-    width: 80%;
-    
+    width: 90%;
     border-radius: 10px;
     margin: 50px auto;
     box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
