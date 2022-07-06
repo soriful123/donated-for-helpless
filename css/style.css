@@ -7,7 +7,7 @@ body{
     
 }
 .top-banner{
-    background-image: url(../image/flood4.jpg);
+    background-image: url(../image/flood1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
@@ -244,7 +244,6 @@ body{
     width: 350px;
     height: 350px;
     background: #DCE5DA;
-    border: 2px solid burlywood;
     padding: 15px;
     cursor: pointer;
     border-radius: 5px;
