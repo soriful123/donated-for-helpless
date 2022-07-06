@@ -3,8 +3,6 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto Slab', Helvetica, sans-serif;
-
-
 }
 
 .top-banner {
@@ -21,16 +19,12 @@ body {
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
     padding: 200px;
-
 }
 
 .banner-title {
     font-weight: 700;
     color: white;
     font-size: 60px;
-
-
-
 }
 
 .banner-description p {
@@ -41,8 +35,6 @@ body {
     color: white;
     margin-top: -30px;
     margin-bottom: 50px;
-
-
 }
 
 .donate-now {
@@ -54,7 +46,6 @@ body {
     font-weight: bold;
     padding: 20px 35px;
     border: 2px solid rgb(170, 255, 0);
-
 }
 
 .donate-now:hover {
@@ -89,7 +80,6 @@ body {
     line-height: 25px;
 }
 
-
 .donate-tk {
     display: flex;
     justify-content: space-evenly;
@@ -109,7 +99,6 @@ body {
 .send-money:hover {
     background-color: gainsboro;
     transition: .8s;
-
 }
 
 #orange-color {
@@ -125,12 +114,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
 .send-amount {
     padding: 20px;
     margin-bottom: 30px;
     text-align: center;
-
 }
 
 .send-amount input {
@@ -138,9 +125,7 @@ body {
     font-size: 20px;
     padding: 15px;
     font-family: popins;
-
 }
-
 
 .donate-btn {
     text-decoration: none;
@@ -154,11 +139,8 @@ body {
 }
 
 
-
 /* ----Donate Plane Area------
 -------------------------------*/
-
-
 
 .all-donate h1 {
     font-size: 50px;
@@ -180,7 +162,6 @@ body {
 .product-donate {
     display: flex;
     justify-content: space-evenly;
-
 }
 
 #donate-food {
@@ -205,12 +186,10 @@ body {
 #donate-food h1 {
     font-size: 24px;
     color: black;
-
 }
 
 #donate-food p {
     font-size: 16px;
-
 }
 
 #donate-water {
@@ -232,17 +211,14 @@ body {
     width: 30%;
 }
 
-
 #donate-water h1 {
     font-size: 24px;
     color: black;
-
 }
 
 #donate-water p {
     font-size: 16px;
 }
-
 
 #donate-house {
     width: 350px;
@@ -253,7 +229,6 @@ body {
     border-radius: 5px;
 }
 
-
 #donate-house:hover {
     margin-top: -40px;
     transition: 1s;
@@ -263,20 +238,18 @@ body {
     width: 30%;
 }
 
-
 #donate-house h1 {
     font-size: 24px;
     color: black;
-
 }
 
 #donate-house p {
     font-size: 16px;
 }
 
+
 /* --------total donated money css------ 
 ----------------------------------------*/
-
 
 .total-donate {
     margin-top: 150px;
@@ -292,13 +265,11 @@ body {
     box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
 }
 
-
 .cost {
     font-size: 20px;
     padding: 10px;
     cursor: pointer;
     border-radius: 30px;
-
 }
 
 .cost h1 {
@@ -311,12 +282,11 @@ body {
 .cost p {
     color: #020fca98;
     font-size: 25px;
-
 }
+
 
 /*-------- our updates --------
 -------------------------------*/
-
 
 .update-contact {
     font-size: 22px;
@@ -359,7 +329,6 @@ body {
     color: white;
     border-radius: 2px;
     cursor: pointer;
-
 }
 
 .subs-btn button:hover {
@@ -367,6 +336,7 @@ body {
     background-color: rgb(177, 17, 137);
     transition: .8s;
 }
+
 
 /* footer css */
 
