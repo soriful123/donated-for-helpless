@@ -1,37 +1,39 @@
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto Slab', Helvetica, sans-serif;
-    
-    
+
+
 }
-.top-banner{
+
+.top-banner {
     background-image: url(../image/flood1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
     margin: 0;
 }
-.banner-description{
+
+.banner-description {
     text-align: center;
     font-weight: bold;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
     padding: 200px;
-    
+
 }
 
-.banner-title{
-   font-weight: 700;
-   color: white;
-   font-size: 60px;
-   
-  
-   
+.banner-title {
+    font-weight: 700;
+    color: white;
+    font-size: 60px;
+
+
+
 }
 
-.banner-description p{
+.banner-description p {
     font-size: 20px;
     font-family: 'Poppins';
     font-weight: 400;
@@ -39,11 +41,11 @@ body{
     color: white;
     margin-top: -30px;
     margin-bottom: 50px;
-   
-   
+
+
 }
 
-.donate-now{
+.donate-now {
     text-decoration: none;
     color: white;
     background: transparent;
@@ -52,34 +54,35 @@ body{
     font-weight: bold;
     padding: 20px 35px;
     border: 2px solid rgb(170, 255, 0);
-    
+
 }
 
-.donate-now:hover{
+.donate-now:hover {
     background: #FF5959;
     transition: .5s;
 }
 
 
-/* main section css */
+/* ----main section css-----
+---------------------------- */
 
-.main-section{
+.main-section {
     width: 70%;
     text-align: center;
     margin-left: 15%;
 }
 
-#donate-today{
+#donate-today {
     text-align: center;
     margin-top: 100px;
 }
 
-#donate-today h1{
+#donate-today h1 {
     font-size: 50px;
     font-weight: bold;
 }
 
-#donate-today p{
+#donate-today p {
     font-size: 16px;
     color: #707070;
     font-weight: bold;
@@ -87,13 +90,13 @@ body{
 }
 
 
-.donate-tk{
+.donate-tk {
     display: flex;
     justify-content: space-evenly;
     margin-top: 50px;
 }
 
-.send-money{
+.send-money {
     background: rgba(255, 89, 89, 0.1);
     width: 150px;
     border-radius: 10px;
@@ -103,18 +106,18 @@ body{
     font-weight: bold;
 }
 
-.send-money:hover{
-    background-color:gainsboro;
+.send-money:hover {
+    background-color: gainsboro;
     transition: .8s;
-    
+
 }
 
-#orange-color{
+#orange-color {
     border: 2px solid red;
     color: red;
 }
 
-.send-money h1{
+.send-money h1 {
     align-items: center;
     margin-top: 40px;
     color: gray;
@@ -123,48 +126,49 @@ body{
 }
 
 
-.send-amount{
+.send-amount {
     padding: 20px;
     margin-bottom: 30px;
     text-align: center;
-    
+
 }
 
-.send-amount input{
+.send-amount input {
     width: 400px;
     font-size: 20px;
     padding: 15px;
     font-family: popins;
-    
+
 }
 
 
-.donate-btn{
+.donate-btn {
     text-decoration: none;
-        color:white;
-        background: #FF5959;
-        border-radius: 10px;
-        font-size: 20px;
-        font-weight: bold;
-        padding: 20px 35px;
-        border: 1px solid red;
+    color: white;
+    background: #FF5959;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 35px;
+    border: 1px solid red;
 }
 
 
 
-/* Donate Plane Area */
+/* ----Donate Plane Area------
+-------------------------------*/
 
 
 
-.all-donate h1{
+.all-donate h1 {
     font-size: 50px;
-    color:black;
+    color: black;
     text-align: center;
     margin-top: 150px;
     font-weight: bold;
 }
 
-.all-donate p{
+.all-donate p {
     font-size: 18px;
     color: #707070;
     text-align: center;
@@ -173,13 +177,13 @@ body{
     margin-bottom: 50px;
 }
 
-.product-donate{
+.product-donate {
     display: flex;
     justify-content: space-evenly;
-    
+
 }
 
-#donate-food{
+#donate-food {
     width: 350px;
     height: 350px;
     background: #CFD1F0;
@@ -189,27 +193,27 @@ body{
     cursor: pointer;
 }
 
-#donate-food:hover{
+#donate-food:hover {
     margin-top: -40px;
     transition: 1s;
 }
 
-#donate-food img{
+#donate-food img {
     width: 30%;
 }
 
-#donate-food h1{
+#donate-food h1 {
     font-size: 24px;
     color: black;
-    
+
 }
 
-#donate-food p{
+#donate-food p {
     font-size: 16px;
-    
+
 }
 
-#donate-water{
+#donate-water {
     width: 350px;
     height: 350px;
     background: burlywood;
@@ -219,23 +223,23 @@ body{
     border-radius: 5px;
 }
 
-#donate-water:hover{
+#donate-water:hover {
     margin-top: -40px;
     transition: 1s;
 }
 
-#donate-water img{
+#donate-water img {
     width: 30%;
 }
 
 
-#donate-water h1{
+#donate-water h1 {
     font-size: 24px;
     color: black;
-    
+
 }
 
-#donate-water p{
+#donate-water p {
     font-size: 16px;
 }
 
@@ -254,29 +258,31 @@ body{
     margin-top: -40px;
     transition: 1s;
 }
+
 #donate-house img {
     width: 30%;
 }
 
 
-#donate-house h1{
+#donate-house h1 {
     font-size: 24px;
     color: black;
-    
+
 }
 
-#donate-house p{
+#donate-house p {
     font-size: 16px;
 }
 
-/* total donated money css */
+/* --------total donated money css------ 
+----------------------------------------*/
 
 
-.total-donate{
+.total-donate {
     margin-top: 150px;
 }
 
-.total-money{
+.total-money {
     display: flex;
     padding: 15px;
     justify-content: space-evenly;
@@ -287,7 +293,7 @@ body{
 }
 
 
-.cost{
+.cost {
     font-size: 20px;
     padding: 10px;
     cursor: pointer;
@@ -295,23 +301,24 @@ body{
 
 }
 
-.cost h1{
+.cost h1 {
     font-size: 30px;
     color: rgba(131, 131, 233, 0.911);
     margin-left: 30px;
     margin-bottom: -5px;
 }
 
-.cost p{
+.cost p {
     color: #020fca98;
     font-size: 25px;
-    
+
 }
 
-/* our updates */
+/*-------- our updates --------
+-------------------------------*/
 
 
-.update-contact{
+.update-contact {
     font-size: 22px;
     color: #707070;
     text-align: center;
@@ -319,10 +326,12 @@ body{
     margin-bottom: 50px;
     margin-top: 100px;
 }
-.update-contact p{
+
+.update-contact p {
     font-size: 18px;
 }
-.mail-subs{
+
+.mail-subs {
     display: flex;
     width: 60%;
     border-radius: 6px;
@@ -334,15 +343,15 @@ body{
     margin-left: 20%;
 }
 
-.contact-email input{
-   padding: 10px 20px;
-   font-size: 20px;
-   background: #D9D9D9;
-   border: none;
-   border-radius: 5px;
+.contact-email input {
+    padding: 10px 20px;
+    font-size: 20px;
+    background: #D9D9D9;
+    border: none;
+    border-radius: 5px;
 }
 
-.subs-btn button{
+.subs-btn button {
     padding: 13px 26px;
     background: #FF5959;
     border: none;
@@ -351,25 +360,32 @@ body{
     border-radius: 2px;
     cursor: pointer;
 
-}   
+}
 
-.subs-btn button:hover{
+.subs-btn button:hover {
     color: white;
     background-color: rgb(177, 17, 137);
-   
     transition: .8s;
 }
 
 /* footer css */
 
-.footer{
+.footer {
     width: 100%;
     height: 150px;
     background-color: rgb(0, 0, 0);
 }
 
-.footer div{
+.footer div {
     text-align: center;
     color: white;
     padding: 10px;
+}
+
+.footer div h1 {
+    color: rgb(177, 86, 25)
+}
+
+.footer div p {
+    color: grey;
 }
