@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto Slab', Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .top-banner {
@@ -274,13 +274,13 @@ body {
 
 .cost h1 {
     font-size: 30px;
-    color: rgba(131, 131, 233, 0.911);
+    color: #616D7E;
     margin-left: 30px;
     margin-bottom: -5px;
 }
 
 .cost p {
-    color: #020fca98;
+    color: #36454F;
     font-size: 25px;
 }
 
